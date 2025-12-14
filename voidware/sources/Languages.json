@@ -1,0 +1,122 @@
+{
+  "en": {
+    "LanguageTag": "en",
+    "NativeName": "English",
+    "EnglishName": "English",
+    "Country": "United States"
+  },
+  "zh-Hans": {
+    "LanguageTag": "zh-Hans",
+    "NativeName": "简体中文",
+    "EnglishName": "Chinese (Simplified)",
+    "Country": "China"
+  },
+  "es": {
+    "LanguageTag": "es",
+    "NativeName": "Español",
+    "EnglishName": "Spanish",
+    "Country": "Spain"
+  },
+  "pt": {
+    "LanguageTag": "pt",
+    "NativeName": "Português",
+    "EnglishName": "Portuguese",
+    "Country": "Portugal"
+  },
+  "pt-BR": {
+    "LanguageTag": "pt-BR",
+    "NativeName": "Português (Brasil)",
+    "EnglishName": "Portuguese (Brazil)",
+    "Country": "Brazil"
+  },
+  "ja": {
+    "LanguageTag": "ja",
+    "NativeName": "日本語",
+    "EnglishName": "Japanese",
+    "Country": "Japan"
+  },
+  "ko": {
+    "LanguageTag": "ko",
+    "NativeName": "한국어",
+    "EnglishName": "Korean",
+    "Country": "South Korea"
+  },
+  "ru": {
+    "LanguageTag": "ru",
+    "NativeName": "Русский",
+    "EnglishName": "Russian",
+    "Country": "Russia"
+  },
+  "de": {
+    "LanguageTag": "de",
+    "NativeName": "Deutsch",
+    "EnglishName": "German",
+    "Country": "Germany"
+  },
+  "fr": {
+    "LanguageTag": "fr",
+    "NativeName": "Français",
+    "EnglishName": "French",
+    "Country": "France"
+  },
+  "it": {
+    "LanguageTag": "it",
+    "NativeName": "Italiano",
+    "EnglishName": "Italian",
+    "Country": "Italy"
+  },
+  "vi": {
+    "LanguageTag": "vi",
+    "NativeName": "Tiếng Việt",
+    "EnglishName": "Vietnamese",
+    "Country": "Vietnam"
+  },
+  "tr": {
+    "LanguageTag": "tr",
+    "NativeName": "Türkçe",
+    "EnglishName": "Turkish",
+    "Country": "Turkey"
+  },
+  "tl": {
+    "LanguageTag": "tl",
+    "NativeName": "Tagalog",
+    "EnglishName": "Tagalog",
+    "Country": "Philippines"
+  },
+  "no": {
+    "LanguageTag": "no",
+    "NativeName": "Norsk",
+    "EnglishName": "Norwegian",
+    "Country": "Norway"
+  },
+  "da": {
+    "LanguageTag": "da",
+    "NativeName": "Dansk",
+    "EnglishName": "Danish",
+    "Country": "Denmark"
+  },
+  "pl": {
+    "LanguageTag": "pl",
+    "NativeName": "Polski",
+    "EnglishName": "Polish",
+    "Country": "Poland"
+  },
+  "ca": {
+    "LanguageTag": "ca",
+    "NativeName": "Català",
+    "EnglishName": "Catalan",
+    "Country": "Spain (Catalonia)"
+  },
+  "id": {
+    "LanguageTag": "id",
+    "NativeName": "Bahasa Indonesia",
+    "EnglishName": "Indonesian",
+    "Country": "Indonesia"
+  },
+  "nl": {
+    "LanguageTag": "nl",
+    "NativeName": "Nederlands",
+    "EnglishName": "Dutch",
+    "Country": "Netherlands"
+  }
+}
